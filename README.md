@@ -45,7 +45,9 @@
         <img alt="get_next_line" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" width="150" height="150">
     </a>
 </div>
+  
 # 42 BCN
+
 [![bmunoz-c's 42 stats](https://badge42.coday.fr/api/v2/clu1fcxu21622801p4ru3drnko/stats?cursusId=21&coalitionId=205)](https://github.com/Coday-meric/badge42)
 
 - - -
