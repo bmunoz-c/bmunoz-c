@@ -30,6 +30,11 @@
 
 - - -
 
+# 42 BCN
+[![bmunoz-c's 42 stats](https://badge42.coday.fr/api/v2/clu1fcxu21622801p4ru3drnko/stats?cursusId=21&coalitionId=205)](https://github.com/Coday-meric/badge42)
+
+- - -
+
  [![bmunoz-c's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmunoz-c&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)](https://github.com/bmunoz-c?tab=repositories) 
  
  [![bmunoz-c's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=bmunoz-c&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/bmunoz-c?tab=repositories) 
