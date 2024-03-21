@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1 align="left">Hey 👋  I'm Borja</h1>
 
 ###
@@ -30,7 +30,21 @@
 </div>
 
 - - -
-
+<div align="center">
+  <div align="center">
+    <a href="https://github.com/bmunoz-c/libft">
+        <img alt="Libft" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" width="150" height="150">
+    </a>
+    <a href="https://github.com/bmunoz-c/Born2BeRoot">
+        <img alt="Born2beRoot" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" width="150" height="150">
+    </a>
+    <a href="https://github.com/bmunoz-c/ft_printf">
+        <img alt="ft_printf" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" width="150" height="150">
+    </a>
+    <a href="https://github.com/bmunoz-c/get_next_line">
+        <img alt="get_next_line" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" width="150" height="150">
+    </a>
+</div>
 # 42 BCN
 [![bmunoz-c's 42 stats](https://badge42.coday.fr/api/v2/clu1fcxu21622801p4ru3drnko/stats?cursusId=21&coalitionId=205)](https://github.com/Coday-meric/badge42)
 
