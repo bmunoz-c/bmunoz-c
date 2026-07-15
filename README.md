@@ -31,12 +31,38 @@ Formación profesional de danza urbana en Barcelona
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=1A1512)
 
 ## 🚀 Proyectos destacados
 
+### 📱 BCHILL Project App
+
+Formación profesional de danza urbana en Barcelona. Con la app, todo lo que necesitas siempre a mano:
+
+- 📅 Calendario de clases y eventos en tiempo real
+- 🧑‍🏫 Equipo de profesores y sus especialidades
+- 🔥 Seguimiento de progreso: asistencia, rachas y logros de temporada
+- 🎟️ Próximos eventos y workshops
+- 🛍️ Tienda oficial de merchandising
+- 🔔 Notificaciones de clases, eventos y novedades
+
+*Be Community · Be Home · Be Inspired · Live Life — More than movement.*
+
+<p align="center">
+  <img src="./assets/app_showcase/home.PNG" width="200" alt="Home de la app BCHILL" />
+  <img src="./assets/app_showcase/calendario.PNG" width="200" alt="Calendario de clases" />
+  <img src="./assets/app_showcase/perfil.PNG" width="200" alt="Perfil y progreso" />
+  <img src="./assets/app_showcase/merch.PNG" width="200" alt="Tienda de merchandising" />
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/es/app/bchill-project/id6779422270"><strong>Descárgala en el App Store</strong></a> · Google Play próximamente
+</p>
+
+### 🌐 Web
+
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**BCHILL Project App**](https://apps.apple.com/es/app/bchill-project/id6779422270) | App nativa para la gestión de la formación BCHILL (App Store · Google Play próximamente) | Flutter · Supabase |
 | [**bchillproject.com**](https://bchillproject.com) | Web pública de BCHILL Project | Next.js |
 | [**bchill_project_web**](https://github.com/bmunoz-c/bchill_project_web) | Código fuente de la web de BCHILL | TypeScript · Next.js |
 
