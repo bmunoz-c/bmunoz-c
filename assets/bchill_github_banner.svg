@@ -1,0 +1,42 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1512"/>
+      <stop offset="100%" stop-color="#241C16"/>
+    </linearGradient>
+    <linearGradient id="goldFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D4AF5A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D4AF5A" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#D4AF5A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- Gold inset border -->
+  <rect x="14" y="14" width="1172" height="272" fill="none" stroke="#D4AF5A" stroke-width="1.5" opacity="0.55"/>
+
+  <!-- Decorative motion strokes (dance movement) -->
+  <path d="M 60 230 Q 300 120 560 210 T 1000 160" fill="none" stroke="#D9702E" stroke-width="2.5" opacity="0.35"/>
+  <path d="M 40 90 Q 320 200 620 80 T 1150 130" fill="none" stroke="#14776A" stroke-width="2.5" opacity="0.35"/>
+
+  <!-- Corner marks -->
+  <circle cx="70" cy="70" r="3" fill="#D4AF5A" opacity="0.8"/>
+  <circle cx="1130" cy="230" r="3" fill="#D4AF5A" opacity="0.8"/>
+
+  <!-- Season marker -->
+  <text x="1130" y="60" text-anchor="end" font-family="Poppins, Helvetica, Arial, sans-serif" font-size="16" letter-spacing="3" fill="#D4AF5A" opacity="0.75">26/27</text>
+
+  <!-- Main title -->
+  <text x="600" y="140" text-anchor="middle" font-family="Poppins, Helvetica, Arial, sans-serif" font-weight="700" font-size="64" letter-spacing="4" fill="#F5F0E6">BCHILL PROJECT</text>
+
+  <!-- Thin gold rule -->
+  <rect x="450" y="170" width="300" height="1.5" fill="url(#goldFade)"/>
+
+  <!-- Name / role in italic serif, matching Lora style -->
+  <text x="600" y="205" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="24" fill="#D4AF5A">Borja Muñoz</text>
+
+  <!-- Tagline -->
+  <text x="600" y="235" text-anchor="middle" font-family="Poppins, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="2" fill="#F5F0E6" opacity="0.75">DANCER &amp; CHOREOGRAPHER · FOUNDER, BCHILL PROJECT · BARCELONA</text>
+</svg>

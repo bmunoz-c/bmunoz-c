@@ -26,6 +26,8 @@
 
 ## 🚀 Proyectos
 
+<img src="./assets/bchill_github_banner.svg" width="100%" alt="BCHILL Project banner">
+
 <a href="https://apps.apple.com/es/app/bchill-project/id6779422270">BCHILL Project App</a> — App nativa en Flutter (App Store, Google Play próximamente)
 <br>
 <a href="https://bchillproject.com">bchillproject.com</a> — Web en Next.js
