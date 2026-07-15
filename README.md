@@ -16,14 +16,14 @@ Formación profesional de danza urbana en Barcelona
 
 ---
 
-## 🩰 About me
+## About me
 
 - Bailarín, coreógrafo y director artístico
 - Fundador de **BCHILL Project**
 - Construyendo el ecosistema digital de BCHILL: app, web y automatización
 - Aprendiendo desarrollo full-stack e IA aplicada a proyectos creativos
 
-## 🛠 Stack
+## Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -59,7 +59,7 @@ Formación profesional de danza urbana en Barcelona. Con la app, todo lo que nec
   <a href="https://apps.apple.com/es/app/bchill-project/id6779422270"><strong>Descárgala en el App Store</strong></a> · Google Play próximamente
 </p>
 
-### 🌐 Web
+### 🌐 BCHILL Web
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
