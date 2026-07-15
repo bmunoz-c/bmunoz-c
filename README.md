@@ -61,23 +61,4 @@ Formación profesional de danza urbana en Barcelona. Con la app, todo lo que nec
 
 ### 🌐 Web
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [**bchillproject.com**](https://bchillproject.com) | Web pública de BCHILL Project | Next.js |
-| [**bchill_project_web**](https://github.com/bmunoz-c/bchill_project_web) | Código fuente de la web de BCHILL | TypeScript · Next.js |
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![bmunoz-c's GitHub Streak](https://streak-stats.demolab.com?user=bmunoz-c&locale=en&mode=daily&hide_border=true&background=1A1512&border=D4AF5A&stroke=D4AF5A&ring=D4AF5A&fire=D9702E&currStreakNum=F5F0E6&sideNums=F5F0E6&currStreakLabel=D4AF5A&sideLabels=F5F0E6&dates=F5F0E6&border_radius=8)](https://github.com/bmunoz-c)
-
-</div>
-
----
-
-<div align="center">
-
-📬 [@bchillproject](https://www.instagram.com/bchillproject) · bchillproject@gmail.com
-
-</div>
+[**bchillproject.com**](https://bchillproject.com) — Web pública de BCHILL Project, hecha con Next.js
