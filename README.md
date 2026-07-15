@@ -70,10 +70,7 @@ Formación profesional de danza urbana en Barcelona. Con la app, todo lo que nec
 
 <div align="center">
 
-[![bmunoz-c's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmunoz-c&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)](https://github.com/bmunoz-c?tab=repositories)
-[![bmunoz-c's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=bmunoz-c&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)](https://github.com/bmunoz-c?tab=repositories)
-
-[![bmunoz-c's GitHub Streak](https://streak-stats.demolab.com?user=bmunoz-c&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)](https://github.com/bmunoz-c)
+[![bmunoz-c's GitHub Streak](https://streak-stats.demolab.com?user=bmunoz-c&locale=en&mode=daily&hide_border=true&background=1A1512&border=D4AF5A&stroke=D4AF5A&ring=D4AF5A&fire=D9702E&currStreakNum=F5F0E6&sideNums=F5F0E6&currStreakLabel=D4AF5A&sideLabels=F5F0E6&dates=F5F0E6&border_radius=8)](https://github.com/bmunoz-c)
 
 </div>
 
